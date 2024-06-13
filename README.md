@@ -1,10 +1,2 @@
-## Python Bootcamp & Hackathon
-
-Objectives During this bootcamp and hackathon is to create a Blog website and weather app using a Third-party API, aiming to:
-
-- Understand JSON
-- Understand how to work with Static files in Django
-- Understand API
-- Understand software development & Deployments
-- Understand software testing with pytest
-- Understand Database integration with Python Django
+This repository is for the PLP hackathonII project that was forked and cloned from that of the instructor's.
+Take a look!
